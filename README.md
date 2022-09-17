@@ -1,2 +1,2 @@
 # Java-Cipher
-Criptografia Simétrica com JAVA
+Criptografia Simétrica AES com JAVA
